@@ -2,8 +2,7 @@
 
 ## Malnourishment
 
-* "These experiments included some children, who were known to be malnourished, receiving no changes to their diets in order to act as controls in the experiments." \[[1](#1)\]
-* "Pett and his colleagues introduced an experimental flour mixture which included substances like bone meal. Pett and the researchers found increased incidences of anemia among the students who were fed the experimental flour." \[[1](#1)\]
+* "In 1947, Pett began testing different nutritional interventions on close to 1,000 children in six residential schools across the country. These experiments used the baseline of malnutrition and hunger experienced by Indigenous children in the schools as a way to test "a whole bunch of both interventions and non-interventions," explained Mosby. These experiments included some children, who were known to be malnourished, receiving no changes to their diets in order to act as controls in the experiments." \[[1](#1)\]
 
 Links:
 
