@@ -8,5 +8,3 @@
 Links:
 
 <a href="#" id="1"></a>1. https://www.cbc.ca/radio/unreserved/how-food-in-canada-is-tied-to-land-language-community-and-colonization-1.5989764/the-dark-history-of-canada-s-food-guide-how-experiments-on-indigenous-children-shaped-nutrition-policy-1.5989785
-
-<a href="#" id="2"></a>1. https://www.cbc.ca/radio/unreserved/how-food-in-canada-is-tied-to-land-language-community-and-colonization-1.5989764/the-dark-history-of-canada-s-food-guide-how-experiments-on-indigenous-children-shaped-nutrition-policy-1.5989785
